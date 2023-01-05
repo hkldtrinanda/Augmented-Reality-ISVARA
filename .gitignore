@@ -1,0 +1,8 @@
+# File
+**/Library
+**/Logs
+**/obj
+
+
+Temp/UnityLockfile
+UserSettings/EditorUserSettings.asset

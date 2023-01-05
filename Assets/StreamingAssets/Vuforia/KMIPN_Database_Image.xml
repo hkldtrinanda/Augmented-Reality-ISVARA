@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BataraKala" size="2.000000 2.800000" />
+    <ImageTarget name="Soekarno" size="2.000000 2.800000" />
+    <ImageTarget name="PrabuSiliwangi" size="2.000000 2.800000" />
+    <ImageTarget name="RatuShima" size="2.000000 2.800000" />
+    <ImageTarget name="NawangWulan" size="2.000000 2.800000" />
+    <ImageTarget name="GayatriRajapatni" size="2.000000 2.800000" />
+    <ImageTarget name="RAKartini" size="2.000000 2.800000" />
+    <ImageTarget name="MarthaTiahahu" size="2.000000 2.800000" />
+    <ImageTarget name="NyiRoroKidul" size="2.000000 2.800875" />
+  </Tracking>
+</QCARConfig>
